@@ -1,0 +1,5 @@
+n=input().lower()
+m=input().lower()
+a=sorted(n)
+b=sorted(m)
+print(a==b)
